@@ -1,7 +1,9 @@
 # range of numbers 1-100
 num_range = range(1, 101)
+
 # converting range into a list
 num_list = list(num_range)
+
 #CREATING THE FIZZ BUZZ FEATURE
 for n in num_list:
     #for fizz buzz
